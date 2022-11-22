@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Akhilkrishnan R
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning Nextjs
+- 💞️ I’m looking to collaborate on ...
